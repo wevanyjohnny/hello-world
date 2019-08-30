@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Trying new experience\r I am 22 years old",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wevanyjohnny/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wevanyjohnny/hello-world/issues"
+  },
+  "homepage": "https://github.com/wevanyjohnny/hello-world#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
